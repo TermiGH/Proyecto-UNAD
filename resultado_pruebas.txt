@@ -1,0 +1,59 @@
+
+Prueba 1: Cliente valido
+Correcto: Ana Perez (1001)
+Prueba finalizada
+
+Prueba 2: Cliente invalido
+Error controlado: nombre no valido
+Prueba finalizada
+
+Prueba 3: Sala valida
+Correcto: Sala registrada
+Prueba finalizada
+
+Prueba 4: Equipo valido
+Correcto: Equipo registrado
+Prueba finalizada
+
+Prueba 5: Asesoria valida
+Correcto: Asesoria registrada
+Prueba finalizada
+
+Prueba 6: Servicio invalido
+Error controlado: Tarifa no valida
+Prueba finalizada
+
+Prueba 7: Reserva exitosa
+Correcto: Total $80,000
+Prueba finalizada
+
+Prueba 8: Reserva con ajustes
+Correcto: Total con descuento e impuesto $171,360
+Prueba finalizada
+
+Prueba 9: Reserva fallida
+Error controlado: Duracion debe ser un entero positivo
+Prueba finalizada
+
+Prueba 10: Servicio inexistente
+Error controlado: Cliente o servicio no encontrado
+Prueba finalizada
+
+Prueba 11: Cancelar reserva
+Correcto: Reserva 1: Ana Perez, Reuniones, cancelada
+Prueba finalizada
+
+Prueba 12: Cliente repetido
+Error controlado: Identificacion repetida
+Prueba finalizada
+
+Prueba 13: Servicio no disponible
+Correcto: <__main__.Equipo object at 0x7f60ccdddbd0>
+Prueba finalizada
+
+Prueba 14: Reserva no disponible
+Error controlado: Proyector no disponible
+Prueba finalizada
+
+Clientes: 1 | Servicios: 4 | Reservas: 2
+Eventos y errores guardados en eventos.log
